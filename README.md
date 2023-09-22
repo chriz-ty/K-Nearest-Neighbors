@@ -4,8 +4,8 @@
 #### INTRODUCTION
 - K-Nearest Neighbors (KNN) is a simple and intuitive supervised machine learning algorithm used for _classification_ and _regression_ tasks.
 - It is based on the idea that objects (data points) that are close to each other in a feature space are likely to belong to the same class or have similar numeric values.
-- In KNN, the "K" represents the _number of nearest neighbors_ used to make predictions.
-
+- In KNN, the "K" represents the _number of nearest neighbors_ used to make predictions.<br/><br/>
+![](https://www.aitude.com/wp-content/uploads/2020/02/knn1-1-1.jpg)
 
 ## The Calculation of Distance
 #### KNN uses Euclidean distance for measuring the straight-line distance between two points in a multidimensional space.
